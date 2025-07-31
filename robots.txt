@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vinaooo.github.io/Aplicar_Github_Student_Developer_Pack/sitemap.xml
