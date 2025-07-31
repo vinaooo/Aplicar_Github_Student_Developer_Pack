@@ -1,3 +1,14 @@
+@media (max-width: 600px) {
+    h1[itemprop="headline"] {
+        font-size: 1.35rem;
+        padding-bottom: 8px;
+    }
+
+    .page-container {
+        padding: 18px 6px;
+    }
+}
+
 body {
     font-family: Arial, sans-serif;
     font-size: 1.18rem;
